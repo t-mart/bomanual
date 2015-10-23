@@ -1,0 +1,13 @@
+{
+  "name": "bomanual",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "pure": "~0.6.0",
+    "lodash": "~3.10.1"
+  },
+  "devDependencies": {
+    "chai": "~3.4.0",
+    "mocha": "~2.3.3"
+  }
+}
